@@ -6,7 +6,7 @@ Data structures and Algorithms - Assignment 1- queue
 Sample Output for queueTest:
 ----------------------------
 
-Testing the template myQueue, try an integer queue as an example...
+Testing the template myQueue, try an integer queue as an example... \n
 Please enter the max size of the int queue: 2
 Please enter 'e' for enqueue, 'd' for dequeue, and 's' for stop.
 e
